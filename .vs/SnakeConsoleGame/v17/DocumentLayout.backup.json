@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Apps\\SnakeConsoleGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790FB728-BE8A-4F2B-A6AA-04117839D8CF}|SnakeConsoleGame\\SnakeConsoleGame.csproj|d:\\apps\\snakeconsolegame\\snakeconsolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FB728-BE8A-4F2B-A6AA-04117839D8CF}|SnakeConsoleGame\\SnakeConsoleGame.csproj|solutionrelative:snakeconsolegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790FB728-BE8A-4F2B-A6AA-04117839D8CF}|SnakeConsoleGame\\SnakeConsoleGame.csproj|D:\\Apps\\SnakeConsoleGame\\snakeconsolegame\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790FB728-BE8A-4F2B-A6AA-04117839D8CF}|SnakeConsoleGame\\SnakeConsoleGame.csproj|solutionrelative:snakeconsolegame\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 232,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Apps\\SnakeConsoleGame\\SnakeConsoleGame\\Program.cs",
+              "RelativeDocumentMoniker": "SnakeConsoleGame\\Program.cs",
+              "ToolTip": "D:\\Apps\\SnakeConsoleGame\\SnakeConsoleGame\\Program.cs*",
+              "RelativeToolTip": "SnakeConsoleGame\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:06:23.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "D:\\Apps\\SnakeConsoleGame\\SnakeConsoleGame\\Snake.cs",
+              "RelativeDocumentMoniker": "SnakeConsoleGame\\Snake.cs",
+              "ToolTip": "D:\\Apps\\SnakeConsoleGame\\SnakeConsoleGame\\Snake.cs*",
+              "RelativeToolTip": "SnakeConsoleGame\\Snake.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T13:06:45.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
